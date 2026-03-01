@@ -20,5 +20,5 @@ tqdm                    4.67.3
 2) Активируем окружение (пишем в консоли): "имя окружения"\Scripts\activate (для Windows)
 3) устанавливаем все необходимые библиотеки на окружение через pip
 
-Либо можете установить виртульное окружение в папку с проектом из яндекс диска:
-ссылка: https://disk.yandex.ru/d/ZX43Vi1OvU1qtg
+Либо можете установить виртульное окружение в папку с проектом из google disc:
+ссылка: https://drive.google.com/drive/folders/1tTS6B65TYO1pO7hkXMMr9uRuQU1oIscE?usp=drive_link
